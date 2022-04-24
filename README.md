@@ -1,4 +1,4 @@
-# Ionic-CalculadoraIMC
+# Calculadora IMC
 Calculadora IMC - Prova de Sistemas Móveis 
 
 Versão usadas:
